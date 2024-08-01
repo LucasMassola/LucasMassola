@@ -1,16 +1,13 @@
-## Hi there 👋
+## RECEBA
 
-<!--
-**LucasMassola/LucasMassola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Olá meu nome é Lucas Massola 👨‍🦱
+- tenho 15 anos 
+- nasci em 13 de abril de 2009 na santa casa de santos 🏥
+- moro em Cubatão SP 👇
+- estudo na unidade estadual Marechal Humberto De Alencar Castelo Branco 🏰
+- Nesse exato momento é dia 1 de agosto de 2024 e são 07:37 📆
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://media.tenor.com/RbmvWMGH2fsAAAAM/jojo-anime.gif)
+
